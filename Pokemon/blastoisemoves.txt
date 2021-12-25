@@ -1,0 +1,6 @@
+Skull_Bash	NORMAL	130	100
+    Hydro_Pump	WATER		110	80
+    Flash_Cannon	STEEL	80	100
+    Bite DARK 60 100
+    Ice_Punch ICE 75 100
+    Giga_Impact NORMAL 150 60

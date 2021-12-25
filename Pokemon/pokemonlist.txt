@@ -1,0 +1,5 @@
+Charizard FIRE 300
+Blastoise WATER 300
+Venusaur GRASS 300
+Pikachu ELECTRIC 350
+Pidgeot FLYING  400

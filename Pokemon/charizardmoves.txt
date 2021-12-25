@@ -1,0 +1,7 @@
+Dragon_Breath	DRAGON	60	100 
+    Slash	NORMAL		    70	100
+	Flamethrower	FIRE	90	100
+	Flare_Blitz	FIRE	120	100
+    Overheat FIRE         160 50
+	Hyper_Beam NORMAL 130 50
+	Seismic_Slam FIGHTING 80 80

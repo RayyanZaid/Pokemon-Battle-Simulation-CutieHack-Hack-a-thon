@@ -1,0 +1,6 @@
+Thunder	ELECTRIC	110	70
+Thunderbolt	ELECTRIC 90	100
+Slam	NORMAL	80	75
+Draining_Kiss	FAIRY 50	100
+Brick_Break FIGHTING 75 100
+Volt_Switch ELECTRIC 70 100

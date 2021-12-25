@@ -1,0 +1,5 @@
+Double_Edge	NORMAL	120	60
+Solar_Beam	GRASS	120	95
+Venoshock POISON 65 100
+Buldoze GROUND  70 100
+Facade NORMAL 80 100

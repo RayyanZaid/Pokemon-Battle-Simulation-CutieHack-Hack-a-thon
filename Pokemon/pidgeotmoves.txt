@@ -1,0 +1,5 @@
+Wing Attack	FLYING		60	100
+Razor Wind	NORMAL		80	100
+Air Slash	FLYING		60	100
+Headbutt NORMAL 70 100
+U-TURN BUG 70 100
